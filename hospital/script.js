@@ -33,7 +33,6 @@ const fetchdata = async () => {
             const divClass = '.' + divClassName;
             const dist = getDistanceFromLatLonInKm(each.latitude, each.longitude, tlat, tlon);
             let showStatus = 'In 5km range';
-
             // console.log(`${each.uniqId} ${each.latitude} ${each.longitude} ${dist}`);
             // console.log(dist);
             
