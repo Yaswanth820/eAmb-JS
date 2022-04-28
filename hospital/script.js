@@ -8,7 +8,7 @@ const getDistanceFromLatLonInKm = (lat1,lon1,lat2,lon2) => {
     return d;
 }
 
-let tlat = 17.7733, tlon = 83.2325;
+let tlat = 17.68853, tlon = 83.16644;
 
 // 17.773450375795733, 83.23261057145403
 // 17.776309158215206, 83.21645129771152
