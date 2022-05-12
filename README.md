@@ -1,4 +1,3 @@
 # eAmb-JS
 
-Bad version
-uses short-polling
+Bad version (uses short-polling)
